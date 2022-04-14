@@ -8,6 +8,7 @@ namespace ClassLibrary2
 {
     public class Somme
     {
+        String hela;
         public String ErrorMessage1 { get; set; }
         public String ErrorMessage2 { get; set; }
         public string sommeValue(string valeur1,string valeur2)
