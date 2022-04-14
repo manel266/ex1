@@ -8,9 +8,11 @@ namespace ClassLibrary2
 {
     public class Somme
     {
+        String ALI;
         String hela;
 
         String ali;
+        string manel;
 
         String chaima11111111111;
 
