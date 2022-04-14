@@ -8,6 +8,7 @@ namespace ClassLibrary2
 {
     public class Somme
     {
+        String ALI;
         String hela;
         public String ErrorMessage1 { get; set; }
         public String ErrorMessage2 { get; set; }
