@@ -12,6 +12,7 @@ namespace ClassLibrary2
         String hela;
 
         String ali;
+        string manel;
 
         public String ErrorMessage1 { get; set; }
         public String ErrorMessage2 { get; set; }
